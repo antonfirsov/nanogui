@@ -33,3 +33,6 @@ docs/api
 # should not ever be needed again unless there are new
 # icons added :)
 resources/nanogui-entypo
+
+# Visual Studio junk:
+.vs
